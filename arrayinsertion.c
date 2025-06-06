@@ -7,7 +7,7 @@ int main (){
     }
     printf("Array elements are: \n");
     for(int j=0;j<5;j++) {
-    printf("%d\n",a[j]);
+    printf("a[%d]=%d\n",j,a[j]);
     }
     return 0;
 }
