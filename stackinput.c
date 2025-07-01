@@ -1,6 +1,6 @@
 #include<stdio.h>
 int maxsize=8;
-int top=-1;
+int top=-1; 
 int stack[8];
 int isfull() {
     if(top==maxsize - 1) {
@@ -11,7 +11,7 @@ int isfull() {
 }
 int push(int elements) {
      if(!isfull()){
-        top=top+1;
+        top=top+1; //increase pointer by 1
         stack[top]=elements;
         return 1;
     } else {
