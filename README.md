@@ -1,23 +1,67 @@
-### 👋 Hello, I'm Krishan
+# 🚀 Krishan's DSA Playground in C
 
-I'm a beginner coding enthusiast currently learning the core concepts of **C**, **Java**, and **Python**. This repository is a collection of my early experiments with **Data Structures and Algorithms (DSA)**, mainly coded in C, based on my learning.
-### 📘 What to Expect
-This repo showcases:
-- 🔢 **Array Operations** – insertions, deletions, traversals
-- 🔍 **Searching Algorithms** – linear and binary search
-- 🧼 **Sorting Techniques** – bubble sort (more coming soon!)
-- 📥 **Stacks** – basic push/pop using arrays
+👋 Hello! I'm Krishan, a beginner coding enthusiast exploring the core concepts of **C**, **Java**, and **Python**. This repository is a collection of my early experiments with **Data Structures and Algorithms (DSA)**, primarily written in **C**, as I build a strong foundation in problem-solving and programming logic.
 
-### 🚀 My Learning Goals
-- Build a strong foundation in C-based DSA
-- Learn efficient problem-solving strategies
-- Progress to advanced structures like linked lists and trees
-- Transition into Java/Python for real-world applications
+---
 
-### ⚠️ Note
-Since I'm still learning, there may be mistakes or inefficient solutions. If you spot one, feel free to open an issue or suggest an improvement—I'd really appreciate the help!
+## 📘 What You'll Find Here
 
-### 🙌 Acknowledgements
+This repo showcases beginner-friendly implementations of:
+
+### 🔢 Array Operations
+- `arrayinsertion.c` – Insert elements into arrays
+- `arraydelete.c` – Delete elements from arrays
+- `arraytraversalc.c` – Traverse and display array contents
+- `arrayupdation.c` – Update array elements
+
+### 🔍 Searching Algorithms
+- `linearsearch.c` – Basic linear search
+- `binarysearch.c` – Binary search with recursion
+
+### 🧼 Sorting Techniques
+- `bubblesort.c` – Bubble sort implementation  
+  *(More sorting algorithms coming soon!)*
+
+### 📥 Stack Operations
+- `stackinput.c` – Push elements onto a stack
+- `stackpop.c` – Pop elements from a stack
+- `stackpeek.c` – Peek at the top element
+
+### 📦 Queue Operations
+- `enqueue.c` – Basic enqueue logic  
+  *(Dequeue and circular queue coming soon!)*
+
+---
+
+## 🚀 My Learning Goals
+
+- Build a strong foundation in **C-based DSA**
+- Learn efficient **problem-solving strategies**
+- Progress to advanced structures like **linked lists** and **trees**
+- Transition into **Java/Python** for real-world applications
+- Make this repo beginner-friendly and collaborative
+
+---
+
+## ⚠️ Note
+
+I'm still learning, so some solutions may be inefficient or contain bugs. If you spot any issues or have suggestions, feel free to open an issue or submit a pull request—I'd love your feedback!
+
+---
+
+## 🙌 Acknowledgements
+
 - Learning DSA from [TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+- Thanks for visiting and supporting my journey 😊
 
-Thanks for visiting! 😊
+---
+
+## 📂 Folder Structure (Coming Soon)
+
+Planning to organize code into folders by topic (Arrays, Stacks, Queues, etc.) for better scalability and readability.
+
+---
+
+## 💡 Want to Contribute?
+
+If you're also learning or want to help improve beginner-friendly DSA code, feel free to fork the repo, suggest changes, or add new examples!
