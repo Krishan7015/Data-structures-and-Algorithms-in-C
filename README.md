@@ -28,8 +28,9 @@ This repo showcases beginner-friendly implementations of:
 - `stackpeek.c` – Peek at the top element
 
 ### 📦 Queue Operations
-- `enqueue.c` – Basic enqueue logic  
-  *(Dequeue and circular queue coming soon!)*
+- `enqueue.c` – Add elements to the queue  
+- `dequeue.c` – Remove elements from the queue  
+  *(Planning to add circular and priority queues soon!)*
 
 ---
 
