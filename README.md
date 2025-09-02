@@ -1,7 +1,6 @@
 ### 👋 Hello, I'm Krishan
 
-I'm a beginner coding enthusiast currently learning the core concepts of **C**, **Java**, and **Python**. This repository is a collection of my early experiments with **Data Structures and Algorithms (DSA)**, mainly coded in C, based on my learning from [TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm).
-
+I'm a beginner coding enthusiast currently learning the core concepts of **C**, **Java**, and **Python**. This repository is a collection of my early experiments with **Data Structures and Algorithms (DSA)**, mainly coded in C, based on my learning.
 ### 📘 What to Expect
 This repo showcases:
 - 🔢 **Array Operations** – insertions, deletions, traversals
